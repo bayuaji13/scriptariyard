@@ -1,5 +1,6 @@
 <form action="" method="post">
-	N : <input type="text" name="input"> <input type="submit" name="submit" value="run">
+	string : <input type="text" name="input"> 
+	 <input type="submit" name="submit" value="run">
 </form>
 <?php 
 	if ($_POST != null){
